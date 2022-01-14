@@ -21,14 +21,14 @@ set seed 2000
 global path ""		// cambiar directorio
 global out ""						// cambiar directorio
 
-* Paquetes necesarios para las estimaciones
+/* Paquetes necesarios para las estimaciones
 ssc install winsor
 ssc install acfest
 ssc install eststo
 ssc install estout
 ssc install reghdfe
 ssc install ftools
-
+*/
 *************************************************************************
 *******                           SET UP                          ******* 
 *************************************************************************
